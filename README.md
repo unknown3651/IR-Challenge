@@ -1,6 +1,5 @@
 # IR-Challenge
 
-Context
 You’re working as an analyst within a Security Operations Center (SOC). A report comes in from someone stating that a colleague downloaded a questionable file while trying to find a certain software.
 
 After reviewing the initial report, you confirm that the system was compromised. You obtain a packet capture (PCAP) of the network traffic related to the incident. While analyzing the PCAP, you notice indicators of compromise.
